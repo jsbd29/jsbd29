@@ -4,8 +4,7 @@
 
 
   
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" 
- width=20> LinkedIn </a> &nbsp;
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20>LinkedIn</a>&nbsp;
  <a href="https://www.linkedin.com/in/sebastiao-sebastian-dutra-186a2560/" rel="nofollow noreferrer">
 
 <div align="center">  
