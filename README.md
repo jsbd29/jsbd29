@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;Sebastiao(Sebastian)+Dutra+from+Kansas+City+MO;I'm+Software+Engineer+:%29)](https://git.io/typing-svg)
 
-<a href="[https://www.linkedin.com/in/taeho-kim-718020157/](https://www.linkedin.com/in/sebastiao-sebastian-dutra-186a2560/)" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/sebastiao-sebastian-dutra-186a2560/" rel="nofollow noreferrer">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" 
  width=20> LinkedIn </a> &nbsp;
 
