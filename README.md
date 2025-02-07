@@ -9,12 +9,6 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width=20> LinkedIn
   </a>&nbsp;
 
-  <br>
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jsbd29&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Sebastian's github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsbd29&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-
-  <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsbd29&bg_color=050505&color=719e4c&line=17d951&point=41413e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
