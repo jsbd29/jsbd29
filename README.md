@@ -9,7 +9,7 @@
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt=" linkedin " width=20> LinkedIn
   </a>&nbsp;
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsbd29&bg_color=050505&color=ecf000&line=0de34d&point=ed020e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsbd29&bg_color=050505&color=6360f0&line=725cad&point=12ed02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=jsbd29&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
